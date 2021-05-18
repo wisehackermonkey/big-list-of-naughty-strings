@@ -1,0 +1,27 @@
+array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "undefined"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================
+array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "undef"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================
+array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "null"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================

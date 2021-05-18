@@ -1,0 +1,518 @@
+http://ineql.us/
+516
+http://ineql.us/undefined
+http://ineql.us/undef
+http://ineql.us/null
+http://ineql.us/NULL
+http://ineql.us/(null)
+http://ineql.us/nil
+http://ineql.us/NIL
+http://ineql.us/true
+http://ineql.us/false
+http://ineql.us/True
+http://ineql.us/False
+http://ineql.us/TRUE
+http://ineql.us/FALSE
+http://ineql.us/None
+http://ineql.us/hasOwnProperty
+http://ineql.us/then
+http://ineql.us/constructor
+http://ineql.us/\
+http://ineql.us/\\
+http://ineql.us/0
+http://ineql.us/1
+http://ineql.us/1.00
+http://ineql.us/$1.00
+http://ineql.us/1/2
+http://ineql.us/1E2
+http://ineql.us/1E02
+http://ineql.us/1E+02
+http://ineql.us/-1
+http://ineql.us/-1.00
+http://ineql.us/-$1.00
+http://ineql.us/-1/2
+http://ineql.us/-1E2
+http://ineql.us/-1E02
+http://ineql.us/-1E+02
+http://ineql.us/1/0
+http://ineql.us/0/0
+http://ineql.us/-2147483648/-1
+http://ineql.us/-9223372036854775808/-1
+http://ineql.us/-0
+http://ineql.us/-0.0
+http://ineql.us/+0
+http://ineql.us/+0.0
+http://ineql.us/0.00
+http://ineql.us/0..0
+http://ineql.us/.
+http://ineql.us/0.0.0
+http://ineql.us/0,00
+http://ineql.us/0,,0
+http://ineql.us/,
+http://ineql.us/0,0,0
+http://ineql.us/0.0/0
+http://ineql.us/1.0/0.0
+http://ineql.us/0.0/0.0
+http://ineql.us/1,0/0,0
+http://ineql.us/0,0/0,0
+http://ineql.us/--1
+http://ineql.us/-
+http://ineql.us/-.
+http://ineql.us/-,
+http://ineql.us/999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+http://ineql.us/NaN
+http://ineql.us/Infinity
+http://ineql.us/-Infinity
+http://ineql.us/INF
+http://ineql.us/1#INF
+http://ineql.us/-1#IND
+http://ineql.us/1#QNAN
+http://ineql.us/1#SNAN
+http://ineql.us/1#IND
+http://ineql.us/0x0
+http://ineql.us/0xffffffff
+http://ineql.us/0xffffffffffffffff
+http://ineql.us/0xabad1dea
+http://ineql.us/123456789012345678901234567890123456789
+http://ineql.us/1,000.00
+http://ineql.us/1 000.00
+http://ineql.us/1'000.00
+http://ineql.us/1,000,000.00
+http://ineql.us/1 000 000.00
+http://ineql.us/1'000'000.00
+http://ineql.us/1.000,00
+http://ineql.us/1 000,00
+http://ineql.us/1'000,00
+http://ineql.us/1.000.000,00
+http://ineql.us/1 000 000,00
+http://ineql.us/1'000'000,00
+http://ineql.us/01000
+http://ineql.us/08
+http://ineql.us/09
+http://ineql.us/2.2250738585072011e-308
+http://ineql.us/,./;'[]\-=
+http://ineql.us/<>?:"{}|_+
+http://ineql.us/!@#$%^&*()`~
+http://ineql.us/
+http://ineql.us/
+http://ineql.us/	              ​    　
+http://ineql.us/­؀؁؂؃؄؅؜۝܏᠎​‌‍‎‏‪‫‬‭‮⁠⁡⁢⁣⁤⁦⁧⁨⁩⁪⁫⁬⁭⁮⁯﻿￹￺￻𑂽𛲠𛲡𛲢𛲣𝅳𝅴𝅵𝅶𝅷𝅸𝅹𝅺󠀁󠀠󠀡󠀢󠀣󠀤󠀥󠀦󠀧󠀨󠀩󠀪󠀫󠀬󠀭󠀮󠀯󠀰󠀱󠀲󠀳󠀴󠀵󠀶󠀷󠀸󠀹󠀺󠀻󠀼󠀽󠀾󠀿󠁀󠁁󠁂󠁃󠁄󠁅󠁆󠁇󠁈󠁉󠁊󠁋󠁌󠁍󠁎󠁏󠁐󠁑󠁒󠁓󠁔󠁕󠁖󠁗󠁘󠁙󠁚󠁛󠁜󠁝󠁞󠁟󠁠󠁡󠁢󠁣󠁤󠁥󠁦󠁧󠁨󠁩󠁪󠁫󠁬󠁭󠁮󠁯󠁰󠁱󠁲󠁳󠁴󠁵󠁶󠁷󠁸󠁹󠁺󠁻󠁼󠁽󠁾󠁿
+http://ineql.us/﻿
+http://ineql.us/￾
+http://ineql.us/Ω≈ç√∫˜µ≤≥÷
+http://ineql.us/åß∂ƒ©˙∆˚¬…æ
+http://ineql.us/œ∑´®†¥¨ˆøπ“‘
+http://ineql.us/¡™£¢∞§¶•ªº–≠
+http://ineql.us/¸˛Ç◊ı˜Â¯˘¿
+http://ineql.us/ÅÍÎÏ˝ÓÔÒÚÆ☃
+http://ineql.us/Œ„´‰ˇÁ¨ˆØ∏”’
+http://ineql.us/`⁄€‹›ﬁﬂ‡°·‚—±
+http://ineql.us/⅛⅜⅝⅞
+http://ineql.us/ЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя
+http://ineql.us/٠١٢٣٤٥٦٧٨٩
+http://ineql.us/⁰⁴⁵
+http://ineql.us/₀₁₂
+http://ineql.us/⁰⁴⁵₀₁₂
+http://ineql.us/ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็ ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็ ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็
+http://ineql.us/'
+http://ineql.us/"
+http://ineql.us/''
+http://ineql.us/""
+http://ineql.us/'"'
+http://ineql.us/"''''"'"
+http://ineql.us/"'"'"''''"
+http://ineql.us/<foo val=“bar” />
+http://ineql.us/<foo val=“bar” />
+http://ineql.us/<foo val=”bar“ />
+http://ineql.us/<foo val=`bar' />
+http://ineql.us/田中さんにあげて下さい
+http://ineql.us/パーティーへ行かないか
+http://ineql.us/和製漢語
+http://ineql.us/部落格
+http://ineql.us/사회과학원 어학연구소
+http://ineql.us/찦차를 타고 온 펲시맨과 쑛다리 똠방각하
+http://ineql.us/社會科學院語學研究所
+http://ineql.us/울란바토르
+http://ineql.us/𠜎𠜱𠝹𠱓𠱸𠲖𠳏
+http://ineql.us/𐐜 𐐔𐐇𐐝𐐀𐐡𐐇𐐓 𐐙𐐊𐐡𐐝𐐓/𐐝𐐇𐐗𐐊𐐤𐐔 𐐒𐐋𐐗 𐐒𐐌 𐐜 𐐡𐐀𐐖𐐇𐐤𐐓𐐝 𐐱𐑂 𐑄 𐐔𐐇𐐝𐐀𐐡𐐇𐐓 𐐏𐐆𐐅𐐤𐐆𐐚𐐊𐐡𐐝𐐆𐐓𐐆
+http://ineql.us/表ポあA鷗ŒéＢ逍Üßªąñ丂㐀𠀀
+http://ineql.us/Ⱥ
+http://ineql.us/Ⱦ
+http://ineql.us/ヽ༼ຈل͜ຈ༽ﾉ ヽ༼ຈل͜ຈ༽ﾉ
+http://ineql.us/(｡◕ ∀ ◕｡)
+http://ineql.us/｀ｨ(´∀｀∩
+http://ineql.us/__ﾛ(,_,*)
+http://ineql.us/・(￣∀￣)・:*:
+http://ineql.us/ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ
+http://ineql.us/,。・:*:・゜’( ☻ ω ☻ )。・:*:・゜’
+http://ineql.us/(╯°□°）╯︵ ┻━┻)
+http://ineql.us/(ﾉಥ益ಥ）ﾉ﻿ ┻━┻
+http://ineql.us/┬─┬ノ( º _ ºノ)
+http://ineql.us/( ͡° ͜ʖ ͡°)
+http://ineql.us/¯\_(ツ)_/¯
+http://ineql.us/😍
+http://ineql.us/👩🏽
+http://ineql.us/👨‍🦰 👨🏿‍🦰 👨‍🦱 👨🏿‍🦱 🦹🏿‍♂️
+http://ineql.us/👾 🙇 💁 🙅 🙆 🙋 🙎 🙍
+http://ineql.us/🐵 🙈 🙉 🙊
+http://ineql.us/❤️ 💔 💌 💕 💞 💓 💗 💖 💘 💝 💟 💜 💛 💚 💙
+http://ineql.us/✋🏿 💪🏿 👐🏿 🙌🏿 👏🏿 🙏🏿
+http://ineql.us/👨‍👩‍👦 👨‍👩‍👧‍👦 👨‍👨‍👦 👩‍👩‍👧 👨‍👦 👨‍👧‍👦 👩‍👦 👩‍👧‍👦
+http://ineql.us/🚾 🆒 🆓 🆕 🆖 🆗 🆙 🏧
+http://ineql.us/0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟
+http://ineql.us/🇺🇸🇷🇺🇸 🇦🇫🇦🇲🇸
+http://ineql.us/🇺🇸🇷🇺🇸🇦🇫🇦🇲
+http://ineql.us/🇺🇸🇷🇺🇸🇦
+http://ineql.us/１２３
+http://ineql.us/١٢٣
+http://ineql.us/ثم نفس سقطت وبالتحديد،, جزيرتي باستخدام أن دنو. إذ هنا؟ الستار وتنصيب كان. أهّل ايطاليا، بريطانيا-فرنسا قد أخذ. سليمان، إتفاقية بين ما, يذكر الحدود أي بعد, معاملة بولندا، الإطلاق عل إيو.
+http://ineql.us/בְּרֵאשִׁית, בָּרָא אֱלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ
+http://ineql.us/הָיְתָהtestالصفحات التّحول
+http://ineql.us/﷽
+http://ineql.us/ﷺ
+http://ineql.us/مُنَاقَشَةُ سُبُلِ اِسْتِخْدَامِ اللُّغَةِ فِي النُّظُمِ الْقَائِمَةِ وَفِيم يَخُصَّ التَّطْبِيقَاتُ الْحاسُوبِيَّةُ،
+http://ineql.us/الكل في المجمو عة (5)
+http://ineql.us/᚛ᚄᚓᚐᚋᚒᚄ ᚑᚄᚂᚑᚏᚅ᚜
+http://ineql.us/᚛                 ᚜
+http://ineql.us/‪‪test‪
+http://ineql.us/‫test‫
+http://ineql.us/ test 
+http://ineql.us/test⁠test‫
+http://ineql.us/⁦test⁧
+http://ineql.us/Ṱ̺̺̕o͞ ̷i̲̬͇̪͙n̝̗͕v̟̜̘̦͟o̶̙̰̠kè͚̮̺̪̹̱̤ ̖t̝͕̳̣̻̪͞h̼͓̲̦̳̘̲e͇̣̰̦̬͎ ̢̼̻̱̘h͚͎͙̜̣̲ͅi̦̲̣̰̤v̻͍e̺̭̳̪̰-m̢iͅn̖̺̞̲̯̰d̵̼̟͙̩̼̘̳ ̞̥̱̳̭r̛̗̘e͙p͠r̼̞̻̭̗e̺̠̣͟s̘͇̳͍̝͉e͉̥̯̞̲͚̬͜ǹ̬͎͎̟̖͇̤t͍̬̤͓̼̭͘ͅi̪̱n͠g̴͉ ͏͉ͅc̬̟h͡a̫̻̯͘o̫̟̖͍̙̝͉s̗̦̲.̨̹͈̣
+http://ineql.us/̡͓̞ͅI̗̘̦͝n͇͇͙v̮̫ok̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩l͖͔͚i͓͚̦͠n͖͍̗͓̳̮g͍ ̨o͚̪͡f̘̣̬ ̖̘͖̟͙̮c҉͔̫͖͓͇͖ͅh̵̤̣͚͔á̗̼͕ͅo̼̣̥s̱͈̺̖̦̻͢.̛̖̞̠̫̰
+http://ineql.us/̗̺͖̹̯͓Ṯ̤͍̥͇͈h̲́e͏͓̼̗̙̼̣͔ ͇̜̱̠͓͍ͅN͕͠e̗̱z̘̝̜̺͙p̤̺̹͍̯͚e̠̻̠͜r̨̤͍̺̖͔̖̖d̠̟̭̬̝͟i̦͖̩͓͔̤a̠̗̬͉̙n͚͜ ̻̞̰͚ͅh̵͉i̳̞v̢͇ḙ͎͟-҉̭̩̼͔m̤̭̫i͕͇̝̦n̗͙ḍ̟ ̯̲͕͞ǫ̟̯̰̲͙̻̝f ̪̰̰̗̖̭̘͘c̦͍̲̞͍̩̙ḥ͚a̮͎̟̙͜ơ̩̹͎s̤.̝̝ ҉Z̡̖̜͖̰̣͉̜a͖̰͙̬͡l̲̫̳͍̩g̡̟̼̱͚̞̬ͅo̗͜.̟
+http://ineql.us/̦H̬̤̗̤͝e͜ ̜̥̝̻͍̟́w̕h̖̯͓o̝͙̖͎̱̮ ҉̺̙̞̟͈W̷̼̭a̺̪͍į͈͕̭͙̯̜t̶̼̮s̘͙͖̕ ̠̫̠B̻͍͙͉̳ͅe̵h̵̬͇̫͙i̹͓̳̳̮͎̫̕n͟d̴̪̜̖ ̰͉̩͇͙̲͞ͅT͖̼͓̪͢h͏͓̮̻e̬̝̟ͅ ̤̹̝W͙̞̝͔͇͝ͅa͏͓͔̹̼̣l̴͔̰̤̟͔ḽ̫.͕
+http://ineql.us/Z̮̞̠͙͔ͅḀ̗̞͈̻̗Ḷ͙͎̯̹̞͓G̻O̭̗̮
+http://ineql.us/˙ɐnbᴉlɐ ɐuƃɐɯ ǝɹolop ʇǝ ǝɹoqɐl ʇn ʇunpᴉpᴉɔuᴉ ɹodɯǝʇ poɯsnᴉǝ op pǝs 'ʇᴉlǝ ƃuᴉɔsᴉdᴉpɐ ɹnʇǝʇɔǝsuoɔ 'ʇǝɯɐ ʇᴉs ɹolop ɯnsdᴉ ɯǝɹo˥
+http://ineql.us/00˙Ɩ$-
+http://ineql.us/Ｔｈｅ ｑｕｉｃｋ ｂｒｏｗｎ ｆｏｘ ｊｕｍｐｓ ｏｖｅｒ ｔｈｅ ｌａｚｙ ｄｏｇ
+http://ineql.us/𝐓𝐡𝐞 𝐪𝐮𝐢𝐜𝐤 𝐛𝐫𝐨𝐰𝐧 𝐟𝐨𝐱 𝐣𝐮𝐦𝐩𝐬 𝐨𝐯𝐞𝐫 𝐭𝐡𝐞 𝐥𝐚𝐳𝐲 𝐝𝐨𝐠
+http://ineql.us/𝕿𝖍𝖊 𝖖𝖚𝖎𝖈𝖐 𝖇𝖗𝖔𝖜𝖓 𝖋𝖔𝖝 𝖏𝖚𝖒𝖕𝖘 𝖔𝖛𝖊𝖗 𝖙𝖍𝖊 𝖑𝖆𝖟𝖞 𝖉𝖔𝖌
+http://ineql.us/𝑻𝒉𝒆 𝒒𝒖𝒊𝒄𝒌 𝒃𝒓𝒐𝒘𝒏 𝒇𝒐𝒙 𝒋𝒖𝒎𝒑𝒔 𝒐𝒗𝒆𝒓 𝒕𝒉𝒆 𝒍𝒂𝒛𝒚 𝒅𝒐𝒈
+http://ineql.us/𝓣𝓱𝓮 𝓺𝓾𝓲𝓬𝓴 𝓫𝓻𝓸𝔀𝓷 𝓯𝓸𝔁 𝓳𝓾𝓶𝓹𝓼 𝓸𝓿𝓮𝓻 𝓽𝓱𝓮 𝓵𝓪𝔃𝔂 𝓭𝓸𝓰
+http://ineql.us/𝕋𝕙𝕖 𝕢𝕦𝕚𝕔𝕜 𝕓𝕣𝕠𝕨𝕟 𝕗𝕠𝕩 𝕛𝕦𝕞𝕡𝕤 𝕠𝕧𝕖𝕣 𝕥𝕙𝕖 𝕝𝕒𝕫𝕪 𝕕𝕠𝕘
+http://ineql.us/𝚃𝚑𝚎 𝚚𝚞𝚒𝚌𝚔 𝚋𝚛𝚘𝚠𝚗 𝚏𝚘𝚡 𝚓𝚞𝚖𝚙𝚜 𝚘𝚟𝚎𝚛 𝚝𝚑𝚎 𝚕𝚊𝚣𝚢 𝚍𝚘𝚐
+http://ineql.us/⒯⒣⒠ ⒬⒰⒤⒞⒦ ⒝⒭⒪⒲⒩ ⒡⒪⒳ ⒥⒰⒨⒫⒮ ⒪⒱⒠⒭ ⒯⒣⒠ ⒧⒜⒵⒴ ⒟⒪⒢
+http://ineql.us/<script>alert(123)</script>
+http://ineql.us/&lt;script&gt;alert(&#39;123&#39;);&lt;/script&gt;
+http://ineql.us/<img src=x onerror=alert(123) />
+http://ineql.us/<svg><script>123<1>alert(123)</script>
+http://ineql.us/"><script>alert(123)</script>
+http://ineql.us/'><script>alert(123)</script>
+http://ineql.us/><script>alert(123)</script>
+http://ineql.us/</script><script>alert(123)</script>
+http://ineql.us/< / script >< script >alert(123)< / script >
+http://ineql.us/ onfocus=JaVaSCript:alert(123) autofocus
+http://ineql.us/" onfocus=JaVaSCript:alert(123) autofocus
+http://ineql.us/' onfocus=JaVaSCript:alert(123) autofocus
+http://ineql.us/＜script＞alert(123)＜/script＞
+http://ineql.us/<sc<script>ript>alert(123)</sc</script>ript>
+http://ineql.us/--><script>alert(123)</script>
+http://ineql.us/";alert(123);t="
+http://ineql.us/';alert(123);t='
+http://ineql.us/JavaSCript:alert(123)
+http://ineql.us/;alert(123);
+http://ineql.us/src=JaVaSCript:prompt(132)
+http://ineql.us/"><script>alert(123);</script x="
+http://ineql.us/'><script>alert(123);</script x='
+http://ineql.us/><script>alert(123);</script x=
+http://ineql.us/" autofocus onkeyup="javascript:alert(123)
+http://ineql.us/' autofocus onkeyup='javascript:alert(123)
+http://ineql.us/<script\x20type="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x3Etype="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x0Dtype="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x09type="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x0Ctype="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x2Ftype="text/javascript">javascript:alert(1);</script>
+http://ineql.us/<script\x0Atype="text/javascript">javascript:alert(1);</script>
+http://ineql.us/'`"><\x3Cscript>javascript:alert(1)</script>
+http://ineql.us/'`"><\x00script>javascript:alert(1)</script>
+http://ineql.us/ABC<div style="x\x3Aexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:expression\x5C(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:expression\x00(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:exp\x00ression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:exp\x5Cression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x0Aexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x09expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE3\x80\x80expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x84expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xC2\xA0expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x80expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x8Aexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x0Dexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x0Cexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x87expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xEF\xBB\xBFexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x20expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x88expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x00expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x8Bexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x86expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x85expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x82expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\x0Bexpression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x81expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x83expression(javascript:alert(1)">DEF
+http://ineql.us/ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1)">DEF
+http://ineql.us/<a href="\x0Bjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x0Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xC2\xA0javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x05javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE1\xA0\x8Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x18javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x11javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x88javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x89javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x17javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x03javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x0Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x00javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x10javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x82javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x20javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x13javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x09javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x8Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x14javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x19javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\xAFjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x81javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Djavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x87javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x07javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE1\x9A\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x83javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x04javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x01javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x08javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x84javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x86javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE3\x80\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x12javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x0Djavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x0Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x0Cjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x15javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\xA8javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x16javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x02javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Bjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x06javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\xA9javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x80\x85javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\xE2\x81\x9Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="\x1Cjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="javascript\x00:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="javascript\x3A:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="javascript\x09:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="javascript\x0D:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/<a href="javascript\x0A:javascript:alert(1)" id="fuzzelement1">test</a>
+http://ineql.us/`"'><img src=xxx:x \x0Aonerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x22onerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x0Bonerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x0Donerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x2Fonerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x09onerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x0Conerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x00onerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x27onerror=javascript:alert(1)>
+http://ineql.us/`"'><img src=xxx:x \x20onerror=javascript:alert(1)>
+http://ineql.us/"`'><script>\x3Bjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\x0Djavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xEF\xBB\xBFjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x81javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x84javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE3\x80\x80javascript:alert(1)</script>
+http://ineql.us/"`'><script>\x09javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x89javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x85javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x88javascript:alert(1)</script>
+http://ineql.us/"`'><script>\x00javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\xA8javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x8Ajavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE1\x9A\x80javascript:alert(1)</script>
+http://ineql.us/"`'><script>\x0Cjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\x2Bjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
+http://ineql.us/"`'><script>-javascript:alert(1)</script>
+http://ineql.us/"`'><script>\x0Ajavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\xAFjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\x7Ejavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x81\x9Fjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\xA9javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xC2\x85javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xEF\xBF\xAEjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x83javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x8Bjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x80javascript:alert(1)</script>
+http://ineql.us/"`'><script>\x21javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x82javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE2\x80\x86javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xE1\xA0\x8Ejavascript:alert(1)</script>
+http://ineql.us/"`'><script>\x0Bjavascript:alert(1)</script>
+http://ineql.us/"`'><script>\x20javascript:alert(1)</script>
+http://ineql.us/"`'><script>\xC2\xA0javascript:alert(1)</script>
+http://ineql.us/<img \x00src=x onerror="alert(1)">
+http://ineql.us/<img \x47src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x11src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x12src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x47src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x10src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x13src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x32src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x47src=x onerror="javascript:alert(1)">
+http://ineql.us/<img\x11src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x47src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x34src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x39src=x onerror="javascript:alert(1)">
+http://ineql.us/<img \x00src=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x09=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x10=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x13=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x32=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x12=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x11=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x00=x onerror="javascript:alert(1)">
+http://ineql.us/<img src\x47=x onerror="javascript:alert(1)">
+http://ineql.us/<img src=x\x09onerror="javascript:alert(1)">
+http://ineql.us/<img src=x\x10onerror="javascript:alert(1)">
+http://ineql.us/<img src=x\x11onerror="javascript:alert(1)">
+http://ineql.us/<img src=x\x12onerror="javascript:alert(1)">
+http://ineql.us/<img src=x\x13onerror="javascript:alert(1)">
+http://ineql.us/<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
+http://ineql.us/<img src=x onerror=\x09"javascript:alert(1)">
+http://ineql.us/<img src=x onerror=\x10"javascript:alert(1)">
+http://ineql.us/<img src=x onerror=\x11"javascript:alert(1)">
+http://ineql.us/<img src=x onerror=\x12"javascript:alert(1)">
+http://ineql.us/<img src=x onerror=\x32"javascript:alert(1)">
+http://ineql.us/<img src=x onerror=\x00"javascript:alert(1)">
+http://ineql.us/<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:alert(1)>XXX</a>
+http://ineql.us/<img src="x` `<script>javascript:alert(1)</script>"` `>
+http://ineql.us/<img src onerror /" '"= alt=javascript:alert(1)//">
+http://ineql.us/<title onpropertychange=javascript:alert(1)></title><title title=>
+http://ineql.us/<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1)></a>">
+http://ineql.us/<!--[if]><script>javascript:alert(1)</script -->
+http://ineql.us/<!--[if<img src=x onerror=javascript:alert(1)//]> -->
+http://ineql.us/<script src="/\%(jscript)s"></script>
+http://ineql.us/<script src="\\%(jscript)s"></script>
+http://ineql.us/<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+http://ineql.us/<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+http://ineql.us/<IMG SRC=# onmouseover="alert('xxs')">
+http://ineql.us/<IMG SRC= onmouseover="alert('xxs')">
+http://ineql.us/<IMG onmouseover="alert('xxs')">
+http://ineql.us/<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+http://ineql.us/<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+http://ineql.us/<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+http://ineql.us/<IMG SRC="jav   ascript:alert('XSS');">
+http://ineql.us/<IMG SRC="jav&#x09;ascript:alert('XSS');">
+http://ineql.us/<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+http://ineql.us/<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+http://ineql.us/perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
+http://ineql.us/<IMG SRC=" &#14;  javascript:alert('XSS');">
+http://ineql.us/<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+http://ineql.us/<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+http://ineql.us/<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+http://ineql.us/<<SCRIPT>alert("XSS");//<</SCRIPT>
+http://ineql.us/<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+http://ineql.us/<SCRIPT SRC=//ha.ckers.org/.j>
+http://ineql.us/<IMG SRC="javascript:alert('XSS')"
+http://ineql.us/<iframe src=http://ha.ckers.org/scriptlet.html <
+http://ineql.us/\";alert('XSS');//
+http://ineql.us/<u oncopy=alert()> Copy me</u>
+http://ineql.us/<i onwheel=alert(1)> Scroll over me </i>
+http://ineql.us/<plaintext>
+http://ineql.us/http://a/%%30%30
+http://ineql.us/</textarea><script>alert(123)</script>
+http://ineql.us/1;DROP TABLE users
+http://ineql.us/1'; DROP TABLE users-- 1
+http://ineql.us/' OR 1=1 -- 1
+http://ineql.us/' OR '1'='1
+http://ineql.us/'; EXEC sp_MSForEachTable 'DROP TABLE ?'; --
+http://ineql.us/ 
+http://ineql.us/%
+http://ineql.us/_
+http://ineql.us/-
+http://ineql.us/--
+http://ineql.us/--version
+http://ineql.us/--help
+http://ineql.us/$USER
+http://ineql.us//dev/null; touch /tmp/blns.fail ; echo
+http://ineql.us/`touch /tmp/blns.fail`
+http://ineql.us/$(touch /tmp/blns.fail)
+http://ineql.us/@{[system "touch /tmp/blns.fail"]}
+http://ineql.us/eval("puts 'hello world'")
+http://ineql.us/System("ls -al /")
+http://ineql.us/`ls -al /`
+http://ineql.us/Kernel.exec("ls -al /")
+http://ineql.us/Kernel.exit(1)
+http://ineql.us/%x('ls -al /')
+http://ineql.us/<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [ <!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+http://ineql.us/$HOME
+http://ineql.us/$ENV{'HOME'}
+http://ineql.us/%d
+http://ineql.us/%s%s%s%s%s
+http://ineql.us/{0}
+http://ineql.us/%*.*s
+http://ineql.us/%@
+http://ineql.us/%n
+http://ineql.us/File:///
+http://ineql.us/../../../../../../../../../../../etc/passwd%00
+http://ineql.us/../../../../../../../../../../../etc/hosts
+http://ineql.us/() { 0; }; touch /tmp/blns.shellshock1.fail;
+http://ineql.us/() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }
+http://ineql.us/<<< %s(un='%s') = %u
+http://ineql.us/+++ATH0
+http://ineql.us/CON
+http://ineql.us/PRN
+http://ineql.us/AUX
+http://ineql.us/CLOCK$
+http://ineql.us/NUL
+http://ineql.us/A:
+http://ineql.us/ZZ:
+http://ineql.us/COM1
+http://ineql.us/LPT1
+http://ineql.us/LPT2
+http://ineql.us/LPT3
+http://ineql.us/COM2
+http://ineql.us/COM3
+http://ineql.us/COM4
+http://ineql.us/DCC SEND STARTKEYLOGGER 0 0 0
+http://ineql.us/Scunthorpe General Hospital
+http://ineql.us/Penistone Community Church
+http://ineql.us/Lightwater Country Park
+http://ineql.us/Jimmy Clitheroe
+http://ineql.us/Horniman Museum
+http://ineql.us/shitake mushrooms
+http://ineql.us/RomansInSussex.co.uk
+http://ineql.us/http://www.cum.qc.ca/
+http://ineql.us/Craig Cockburn, Software Specialist
+http://ineql.us/Linda Callahan
+http://ineql.us/Dr. Herman I. Libshitz
+http://ineql.us/magna cum laude
+http://ineql.us/Super Bowl XXX
+http://ineql.us/medieval erection of parapets
+http://ineql.us/evaluate
+http://ineql.us/mocha
+http://ineql.us/expression
+http://ineql.us/Arsenal canal
+http://ineql.us/classic
+http://ineql.us/Tyson Gay
+http://ineql.us/Dick Van Dyke
+http://ineql.us/basement
+http://ineql.us/If you're reading this, you've been in a coma for almost 20 years now. We're trying a new technique. We don't know where this message will end up in your dream, but we hope it works. Please wake up, we miss you.
+http://ineql.us/Roses are [0;31mred[0m, violets are [0;34mblue. Hope you enjoy terminal hue
+http://ineql.us/But now...[20Cfor my greatest trick...[8m
+http://ineql.us/The quick brown fox... [Beeeep]
+http://ineql.us/Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
+http://ineql.us/🏳0🌈️
+http://ineql.us/జ్ఞ‌ా
+http://ineql.us/گچپژ
+http://ineql.us/{% print 'x' * 64 * 1024**3 %}
+http://ineql.us/{{ "".__class__.__mro__[2].__subclasses__()[40]("/etc/passwd").read() }}
